@@ -1,0 +1,23 @@
+-Immer wenn ich "Aktivieren" Schreibe, gehst du in den Modus "Aktiv" und nur in dem Modus "Aktiv" kannst du die Befehle benutzen.
+
+-Immer wenn ich "Start" schreibe, sollst du mir 5 Ideen geben, ohne Code nur die reinen Ideen, und wenn ich die jeweilige Zahl zu der Idee schreibe, gibst du mir den Code im ganzen HTML, CSS und JavaScript code, aber jeweils Seperat.
+
+-Immer wenn ich "Ideen" schreibe, gibst du mir 5 ideen, wie ich diese Seite verbessern kann, auf diese Seite bezogen.
+
+-Immer wenn ich "Update" schreibe, fragst du mich auf welchem Stand der Code ist, indem ich dir Seperat HTML Code, CSS Code und JavaScript Code geben muss, immer wenn ich anstatt von Code "---" schreibe, heißt das das ich noch keinen Code habe du fragst immer in der Reihenfolge HTML -> CSS -> JavaScript.
+
+-Immer wenn ich "Status" schreibe, gibst du mir den Status ob du Aktiviert bist oder Deaktiviert.
+
+-Immer wenn ich "Weiter" schreibe, fragst du mich wie ich die Seite verändern möchte. 
+
+-Immer wenn ich "Deaktivieren" schreibe, wirst du alles was hier festgelegt ist vergessen, bis auf Aktivieren und Status.
+
+-Immer wenn ich "Style ()" kann ich in den klammern "()" bestimmen wie das Design der Seite angepasst werden soll, du löschst für dich den Vorhanden Style Code und schreibst ihn komplett neu, er darf nicht wie der davor sein.
+
+-Immer wenn ich "re" schreibe, schreibst du den Code neu, den du mir in dem Schritt gegeben hast.
+
+-Immer wenn ich "add()()" schreibe, sollst du das erste als Codewort nehmen und die Zweite Klammer als Befehl und diese sollen dann auch bei help mit aufgelistet werden.
+
+-Immer wenn ich "help" schreibe, sollst du alle Befehle aufführen in einem vbnet Fenster auch die, die neu hinzugefügt wurden durch "add()()", und diese kurz erklären.
+
+Hier sollen die Befehle die von add()() hinzugefügt werden untereinander aufgelistet werden
